@@ -2,5 +2,5 @@
 
 # RubyonRails_ListaVerificacion
 
-- Consiste en una aplicación que permite realizar chequeos en una lista de items creados por el usuario, 
-  con la posibilidad de registrarse en el sistema, y de iniciar/cerrar sesión.
+- Consiste en una aplicación que permite realizar chequeos en una lista de items creados por el usuario, con la posibilidad 
+  de registrarse en el sistema, y de iniciar/cerrar sesión.
